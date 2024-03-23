@@ -1,0 +1,36 @@
+{
+  "accounts": [
+    {
+      "id": "47ICyj9so",
+      "title": "吃饭",
+      "time": "2023-6-18",
+      "type": "-1",
+      "account": "3333",
+      "remarks": "1111"
+    },
+    {
+      "id": "BDwDsTOa9",
+      "title": "吃火锅",
+      "time": "2023-03-13",
+      "type": "-1",
+      "account": "123",
+      "remarks": "///////"
+    },
+    {
+      "id": "7mQkXp2bv",
+      "title": "工资",
+      "time": "2023-6-18",
+      "type": "1",
+      "account": "6000",
+      "remarks": "qqqq"
+    },
+    {
+      "id": "jUeUfuISj",
+      "title": "过年红包",
+      "time": "2023-6-18",
+      "type": "1",
+      "account": "1200",
+      "remarks": "。。。"
+    }
+  ]
+}
